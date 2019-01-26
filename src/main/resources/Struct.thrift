@@ -7,7 +7,7 @@ typedef bool boolean
 
 
 enum Gender{
-    MALE,
+    MALE
     FEMALE
 }
 
